@@ -1,0 +1,9 @@
+    1. Fork this repository.
+    2. Clone the repository and cd into spring boot files.
+    3. Install dependencies through npm install in Angular AirbusInventory.
+    5. Create database and tables in your Local System:-
+          1. Create a Database in your system: create database Product;
+          2. Create Product, User Tables
+          (commands given below in Road Map Test and also in Spring -> src/main/resources-> schema.sql)
+    6. Run the airbus-management-spring as Spring boot App on the server port 8080 and configure the datasource with your mysql user credentials(in Application Properties).
+    7. Run the frontend -ng serve which shall run on port:4200.
